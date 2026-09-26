@@ -1,0 +1,29 @@
+{
+  "name": "04-est-modulos-esm-pm",
+  "version": "1.0.0",
+  "description": "Semana 04 PM | Modulos ESM + Desafio integrador Bar Salesiano | Programacion Movil (3° BGU) — UETS 2026-2027",
+  "main": "src/0401_modulos_esm.ts",
+  "type": "module",
+  "scripts": {
+    "test": "tsx tests/runner.ts",
+    "start:0401": "tsx tests/0401_modulos_esm.test.ts",
+    "start:0402": "tsx tests/0402_integrador.test.ts",
+    "check": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "esm",
+    "react-native",
+    "uets",
+    "bachillerato-tecnico",
+    "mobile-development"
+  ],
+  "author": "Ing. Milton Velásquez <UETS>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}
