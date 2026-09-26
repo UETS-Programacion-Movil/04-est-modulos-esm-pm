@@ -16,6 +16,7 @@
 - [ ] Mi rostro y voz son claramente visibles y audibles durante toda la grabacion.
 - [ ] Explico que es un modulo ESM (export nombrado vs. export por defecto) y para que sirve `"type": "module"`.
 - [ ] Muestro en mi terminal la ejecucion exitosa de `pnpm test` y `pnpm run check` con 0 errores de tipado.
+- [ ] Video con subtítulos/transcripción adjunta (accesibilidad).
 
 ---
 
